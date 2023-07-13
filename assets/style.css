@@ -65,7 +65,7 @@ input:focus {
     border-color: #555;
 }
 
-.field .showBtn {
+form .field .showBtn {
     position: absolute;
     right: 10px;
     top: 50%;
@@ -82,13 +82,13 @@ input:focus {
 }
 
 .text.strong {
-    color: green;
+    color: #093824;
 }
 
 .text.medium {
-    color: orange;
+    color: blue;
 }
 
 .text.weak {
-    color: red; 
+    color: white; 
 }
