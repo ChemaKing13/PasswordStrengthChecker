@@ -1,7 +1,7 @@
-# Password Strength Checker App 💪🏼  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
+# Password Strength Tester App 💪🏼  [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 
 
-This Password Strength Checker app is a complement to my tutorial on Understanding Password Strength Validation Regex [here](https://gist.github.com/ChemaKing13/05b500e9cd1b037b791b3cd09d373c8e). The tutorial explores the regular expression `(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s)(?=.*[!@#$*])`, which plays a crucial role in validating the strength of passwords. Whether you are a user or an IT professional, having strong and secure passwords is essential in today's digital age.
+This Password Strength Tester app is a complement to my tutorial on Understanding Password Strength Validation Regex [here](https://gist.github.com/ChemaKing13/05b500e9cd1b037b791b3cd09d373c8e). The tutorial explores the regular expression `(?=.*\d)(?=.*[a-z])(?=.*[A-Z])(?!.*\s)(?=.*[!@#$*])`, which plays a crucial role in validating the strength of passwords. Whether you are a user or an IT professional, having strong and secure passwords is essential in today's digital age.
 
 The Password Strength Checker app allows you to enter a password and provides real-time feedback on its strength. It utilizes the discussed regular expression to determine whether the password is strong, medium, or weak. This can help you assess the strength of your passwords and make necessary improvements.
 
