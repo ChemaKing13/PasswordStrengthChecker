@@ -82,13 +82,13 @@ input:focus {
 }
 
 .text.strong {
-    color: green;
+    color: #093824;
 }
 
 .text.medium {
-    color: orange;
+    color: blue;
 }
 
 .text.weak {
-    color: red; 
+    color: white; 
 }
