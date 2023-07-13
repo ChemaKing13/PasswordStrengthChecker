@@ -81,6 +81,12 @@ form .field .showBtn {
     margin-top: 10px;
 }
 
+@media (max-width: 768px) {
+    .container{
+        padding: 10px
+    }
+}
+
 .text.strong {
     color: #093824;
 }
